@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.KcalTrack" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#0B0F0C</item>
+        <item name="android:navigationBarColor">#171B18</item>
+        <item name="android:windowBackground">#0B0F0C</item>
+    </style>
+</resources>
